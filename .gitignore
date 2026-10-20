@@ -1,0 +1,20 @@
+# Keil / host compiler temporary files; firmware and release archives stay tracked.
+**/Listings/
+*.o
+*.obj
+*.exe
+*.d
+*.dep
+*.crf
+*.lst
+*.map
+*.lnp
+*.htm
+*.build_log.htm
+*.uvguix.*
+*.uvoptx
+**/DebugConfig/
+**/Tests/Calibration/build/
+**/Tests/Calibration/.build/
+Thumbs.db
+Desktop.ini
